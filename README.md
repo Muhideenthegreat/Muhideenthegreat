@@ -41,7 +41,6 @@
 <h4 style="color: #555; margin: 25px 0 15px 0;">Mobile Development</h4>
 <p align="left" style="margin-bottom: 30px; display: flex; gap: 15px; flex-wrap: wrap;">
     <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/></a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/></a>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/></a>
 </p>
 
@@ -100,10 +99,13 @@
     <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="50" height="50"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhideenthegreat&show_icons=true&locale=en&layout=compact" alt="muhideenthegreat" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhideenthegreat&" alt="muhideenthegreat" /></p>
+## Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhideenthegreat" alt="GitHub streak">
+    </td>
+  </tr>
+</table>
 
 
