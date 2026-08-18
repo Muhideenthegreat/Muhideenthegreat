@@ -12,6 +12,11 @@ Currently pursuing an **M.Eng. in Software Engineering at the University of Mary
 <a href="https://www.linkedin.com/in/muhideenmustapha/"><img src="https://img.shields.io/badge/LinkedIn-315EFB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:muhideen@umd.edu"><img src="https://img.shields.io/badge/Email-FF523D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
+<br><br>
+<img src="https://i.gifer.com/LAB.gif" width="360" alt="Animated coding scene">
+<br>
+<sub>Me, allegedly making “one quick change.”</sub>
+
 </div>
 
 ## What I’m working on
